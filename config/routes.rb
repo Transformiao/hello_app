@@ -21,7 +21,7 @@ Rails.application.routes.draw do
   #       post 'toggle'
   #     end
   #
-  #     collection do
+  #     collection dogit g
   #       get 'sold'
   #     end
   #   end
@@ -32,14 +32,8 @@ Rails.application.routes.draw do
   #     resource :seller
   #   end
 
-  # Example resource route with more complex sub-resources:
-  #   resources :products do
-  #     resources :comments
-  #     resources :sales do
-  #       get 'recent', on: :collection
-  #     end
-  #   end
-
+ # hello kitty 
+ 
   # Example resource route with concerns:
   #   concern :toggleable do
   #     post 'toggle'
